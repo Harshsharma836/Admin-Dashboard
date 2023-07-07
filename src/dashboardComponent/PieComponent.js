@@ -3,7 +3,8 @@ import axios from 'axios';
 
 import { PieChart, Pie, Sector, Cell, ResponsiveContainer } from 'recharts';
 
-const response = await axios.get("http://www.randomnumberapi.com/api/v1.0/random?min=100&max=1000&count=4");
+const response = await axios.get("https://www.randomnumberapi.com/api/v1.0/random?min=100&max=1000&count=4");
+
   const data = [
       { name: 'Group A', value: response.data[0] },
       { name: 'Group B', value: response.data[1] },
