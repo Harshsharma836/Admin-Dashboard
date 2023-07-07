@@ -58,31 +58,31 @@ function Main() {
   return (
     <div className='pt-[25px] px-[25px] bg-[#F8F9FC] p'>
         <div className='grid grid-cols-4 gap-[30px] mt-[25px] pb-[15px]'>
-            <div className='bg-green-300  h-[90px] rounded-[8px] bg-white border-1-[4px] border-[#4E73DF] flex items-center justify-between px-[30px] cursor-pointer hover:shadow-lg transform  hover:scale=[103%] transition duration-300'>
+            <div className='bg-[#4ade80]  h-[90px] rounded-[8px] border-1-[4px] border-[#4E73DF] flex items-center justify-between px-[30px] cursor-pointer hover:shadow-lg transform  hover:scale=[103%] transition duration-300'>
                 <div>
                     <h2 className='text-[#B589DF] text-[11px] leading-[17px] font-bold '>Total Revenue</h2>
                     <h1 className='text-[20px] leading-[24px] font-bold text-[#5a5c69] mt-[5px]'>$40,000</h1>
                 </div>
                 <div className='h-16'><FaDollarSign></FaDollarSign></div>
             </div>
-            <div className='bg-green-300  h-[90px] rounded-[8px] bg-white border-1-[4px] border-[#4E73DF] flex items-center justify-between px-[30px] cursor-pointer hover:shadow-lg transform  hover:scale=[103%] transition duration-300'>
+            <div className='bg-[#fecaca]  h-[90px] rounded-[8px] border-1-[4px] border-[#4E73DF] flex items-center justify-between px-[30px] cursor-pointer hover:shadow-lg transform  hover:scale=[103%] transition duration-300'>
                 <div>
                     <h2 className='text-[#B589DF] text-[11px] leading-[17px] font-bold '>Total transition</h2>
-                    <h1 className='text-[20px] leading-[24px] font-bold text-[#5a5c69] mt-[5px]'>$40,000</h1>
+                    <h1 className='text-[20px] leading-[24px] font-bold text-[#5a5c69] mt-[5px]'>20030</h1>
                 </div>
                 <div className='h-16'><FaMoneyBill /></div>
             </div>
-            <div className='bg-green-300  h-[90px] rounded-[8px] bg-white border-1-[4px] border-[#4E73DF] flex items-center justify-between px-[30px] cursor-pointer hover:shadow-lg transform  hover:scale=[103%] transition duration-300'>
+            <div className='bg-[#fb7185]  h-[90px] rounded-[8px] border-1-[4px] border-[#4E73DF] flex items-center justify-between px-[30px] cursor-pointer hover:shadow-lg transform  hover:scale=[103%] transition duration-300'>
                 <div>
                     <h2 className='text-[#B589DF] text-[11px] leading-[17px] font-bold '>Total Likes</h2>
-                    <h1 className='text-[20px] leading-[24px] font-bold text-[#5a5c69] mt-[5px]'>$40,000</h1>
+                    <h1 className='text-[20px] leading-[24px] font-bold text-[#5a5c69] mt-[5px]'>653</h1>
                 </div>
                 <div className='h-16'><FaThumbsUp></FaThumbsUp></div>
             </div>
-            <div className='bg-green-300  h-[90px] rounded-[8px] bg-white border-1-[4px] border-[#4E73DF] flex items-center justify-between px-[30px] cursor-pointer hover:shadow-lg transform  hover:scale=[103%] transition duration-300'>
+            <div className='bg-[#7dd3fc]  h-[90px] rounded-[8px] border-1-[4px] border-[#4E73DF] flex items-center justify-between px-[30px] cursor-pointer hover:shadow-lg transform  hover:scale=[103%] transition duration-300'>
                 <div>
                     <h2 className='text-[#B589DF] text-[11px] leading-[17px] font-bold '>Total Users</h2>
-                    <h1 className='text-[20px] leading-[24px] font-bold text-[#5a5c69] mt-[5px]'>$40,000</h1>
+                    <h1 className='text-[20px] leading-[24px] font-bold text-[#5a5c69] mt-[5px]'>600</h1>
                 </div>
                 <div className='h-16'><FaUserCircle></FaUserCircle></div>
             </div>
