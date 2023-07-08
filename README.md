@@ -1,3 +1,10 @@
+Try Live : https://admin-dashboard-gc7d.vercel.app/
+
+take a moment to the attached screenshot of the project .
+
+![Screenshot (39)](https://github.com/Harshsharma836/Admin-Dashboard/assets/70514943/1a3dc60b-04d4-4d9a-a191-d0b382ccf204)
+![Screenshot (40)](https://github.com/Harshsharma836/Admin-Dashboard/assets/70514943/e69abb59-583d-462b-9df2-c0574ac71b61)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
