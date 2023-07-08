@@ -1,4 +1,6 @@
-Try Live : https://admin-dashboard-gc7d.vercel.app/
+Click the live link and log in using Google.
+
+live link : https://admin-dashboard-gc7d.vercel.app/
 
 take a moment to the attached screenshot of the project .
 
