@@ -1,7 +1,5 @@
 Click the live link and log in using Google.
 
-live link : https://admin-dashboard-gc7d.vercel.app/
-
 take a moment to the attached screenshot of the project .
 
 ![Screenshot (39)](https://github.com/Harshsharma836/Admin-Dashboard/assets/70514943/1a3dc60b-04d4-4d9a-a191-d0b382ccf204)
